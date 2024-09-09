@@ -54,82 +54,82 @@
         <mxCell id="VVygzPUbs8YSUv84W3Wo-18" value="VectorDB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="719" y="55" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-1" target="VPAmSWmuDgrEm8eVRnfg-2">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-1" target="VPAmSWmuDgrEm8eVRnfg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-1" value="Initiate&lt;div&gt;Rootless Docker&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-1" value="Initiate&lt;div&gt;Rootless Docker&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="505" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-2" target="VPAmSWmuDgrEm8eVRnfg-12">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-2" target="VPAmSWmuDgrEm8eVRnfg-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-2" value="Load Docker Image&lt;br&gt;(Untar)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-2" value="Load Docker Image&lt;br&gt;(Untar)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-4" target="VPAmSWmuDgrEm8eVRnfg-1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-4" target="VPAmSWmuDgrEm8eVRnfg-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-4" value="/bootcamp_workspace/$USER&lt;br&gt;&amp;amp;&lt;div&gt;Untar notebooks (very small file)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-4" value="/bootcamp_workspace/$USER&lt;br&gt;&amp;amp;&lt;div&gt;Untar notebooks (very small file)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="380" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-6" target="VPAmSWmuDgrEm8eVRnfg-7">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-6" target="VPAmSWmuDgrEm8eVRnfg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;NIM Docker Image&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jupyter Notebooks&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;NIM Docker Image&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jupyter Notebooks&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="320" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-7" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-7" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="400" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-9" value="COPY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-9" value="COPY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-10" value="Shared Read Only Space&lt;div&gt;/bootcamp_cont/&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-10" value="Shared Read Only Space&lt;div&gt;/bootcamp_cont/&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="164" y="280" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-11" target="VPAmSWmuDgrEm8eVRnfg-12">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-11" target="VPAmSWmuDgrEm8eVRnfg-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-11" value="shared space:&lt;br&gt;/mnt/lustre/python_env/" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-11" value="shared space:&lt;br&gt;/mnt/lustre/python_env/" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="173.5" y="665" width="181" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-12" target="VPAmSWmuDgrEm8eVRnfg-18">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-12" target="VPAmSWmuDgrEm8eVRnfg-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-12" value="Activate Conda Env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-12" value="Activate Conda Env" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="685" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-16" value="shared space:&lt;br&gt;/mnt/lustre/python_env/" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-16" value="shared space:&lt;br&gt;/mnt/lustre/python_env/" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="173.5" y="665" width="181" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-17" target="VPAmSWmuDgrEm8eVRnfg-18">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-17" target="VPAmSWmuDgrEm8eVRnfg-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-17" value="shared space:&lt;br&gt;/mnt/lustre/docker-strg/profile_cache/" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-17" value="shared space:&lt;br&gt;/mnt/lustre/docker-strg/profile_cache/" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="94.5" y="785" width="224.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-18" target="VPAmSWmuDgrEm8eVRnfg-22">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-18" target="VPAmSWmuDgrEm8eVRnfg-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-18" value="/bootcamp_workspace/$USER/.cache/nims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-18" value="/bootcamp_workspace/$USER/.cache/nims" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="412.5" y="805" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-21" value="SYMLINK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-21" value="SYMLINK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="324" y="813" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPAmSWmuDgrEm8eVRnfg-22" target="VPAmSWmuDgrEm8eVRnfg-24">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPAmSWmuDgrEm8eVRnfg-22" target="VPAmSWmuDgrEm8eVRnfg-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-22" value="Find a free PORT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-22" value="Find a free PORT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="486.25" y="905" width="97.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-24" value="Launch JupyterLab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-24" value="Launch JupyterLab" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="486.25" y="1015" width="97.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;labelBackgroundColor=#a21515;fillColor=#d92f26;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;labelBackgroundColor=#a21515;fillColor=#d92f26;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="585" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VPAmSWmuDgrEm8eVRnfg-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;labelBackgroundColor=#a21515;fillColor=#d92f26;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="VPAmSWmuDgrEm8eVRnfg-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;labelBackgroundColor=#a21515;fillColor=#d92f26;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="637.5" y="380" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
