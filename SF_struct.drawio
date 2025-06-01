@@ -142,7 +142,7 @@
         <mxCell id="SpqWK2JKDd9mL29cQ0X0-13" value="&lt;div&gt;Orchestrator&lt;/div&gt;&lt;div&gt;Backend Container&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="566" y="1000" width="102" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SpqWK2JKDd9mL29cQ0X0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SpqWK2JKDd9mL29cQ0X0-7" target="SpqWK2JKDd9mL29cQ0X0-13">
+        <mxCell id="SpqWK2JKDd9mL29cQ0X0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;endArrow=block;endFill=1;startArrow=block;startFill=1;dashed=1;" edge="1" parent="1" source="SpqWK2JKDd9mL29cQ0X0-7" target="SpqWK2JKDd9mL29cQ0X0-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="1050" />
@@ -185,6 +185,9 @@
         </mxCell>
         <mxCell id="SpqWK2JKDd9mL29cQ0X0-39" value="Push Latest Updates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="1045" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpqWK2JKDd9mL29cQ0X0-40" value="Observe Evaluated Results" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1020" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
